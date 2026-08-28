@@ -379,4 +379,13 @@ A scholarly resource for finding research papers, conference publications, and N
 ## Citation Integrity Audit
 [View Audit](citation-audit/Citation_Integrity_Audit.pdf)
 ## License
-...
+## License
+
+This repository is released under the **MIT License**.
+
+The MIT License is a permissive open-source license that allows others to **use, copy, modify, merge, publish, distribute, sublicense, and sell** the original materials in the repository, provided that the copyright notice and license text are included.
+
+The license applies to the **original documentation and curation created for this repository**. Third-party papers, datasets, software, logos, and external resources remain subject to their respective licenses and terms.
+
+See the full license in the [`LICENSE`](LICENSE) file.
+
