@@ -21,6 +21,11 @@ Retrieval-Augmented Generation (RAG), Self-RAG, search-engine augmentation, scie
 
 Future literature-review systems therefore need to evaluate not only factuality but also coverage, freshness, citation accuracy, temporal consistency, and synthesis quality.
 ## AI-Assisted Research Paper
+### Paper Title
+**Knowledge Cutoff Effects on LLM-Generated Literature Reviews in Rapidly Evolving Fields**
+### Abstract / Description
+
+This paper examines how knowledge cutoffs affect LLM-generated literature reviews, particularly in rapidly evolving scientific fields. It discusses how outdated or incomplete model knowledge can lead to missing recent research, outdated claims, temporal inconsistencies, incomplete citation coverage, and misleading representations of the current research landscape. The paper also reviews approaches such as Retrieval-Augmented Generation (RAG), Self-RAG, OpenScholar, temporal knowledge graphs, and time-aware retrieval, while identifying future directions for building more reliable and continuously updated literature-review systems.
 
 [View Paper](paper/AI_Assisted_Research_Paper.pdf)
 ## Survey Papers
