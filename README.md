@@ -251,13 +251,131 @@ This paper examines how knowledge cutoffs affect LLM-generated literature review
 **Link:** https://proceedings.neurips.cc/paper_files/paper/2024/hash/d07a9fc7da2e2ec0574c38d5f504d105-Abstract-Conference.html
 
 ## Datasets
-- ...
+## Datasets & Benchmarks
+
+### Time-Sensitive QA
+
+A benchmark for evaluating how well language models answer questions involving facts that change over time. It is useful for studying **temporal reasoning and knowledge cutoff effects**.
+
+**Link:** https://github.com/wenhuchen/Time-Sensitive-QA
+
+### FreshBench
+
+A benchmark for evaluating the **freshness and temporal generalization** of LLMs. It helps measure how models perform when dealing with newly changing information.
+
+**Link:** https://github.com/FreedomIntelligence/FreshBench
+
+### TruthfulQA
+
+A benchmark designed to evaluate whether language models generate **truthful and reliable answers** instead of reproducing common misconceptions.
+
+**Link:** https://github.com/sylinrl/TruthfulQA
+
 ## Tools and Libraries
-- ...
+## Tools & Libraries
+
+### Hugging Face Transformers
+
+An open-source library providing pretrained transformer models and tools for NLP and LLM experimentation.
+
+**Link:** https://huggingface.co/docs/transformers/
+
+### LangChain
+
+A framework for building LLM applications with retrieval, document processing, tools, and external data sources.
+
+**Link:** https://www.langchain.com/
+
+### LlamaIndex
+
+A framework for connecting LLMs with external data through indexing, retrieval, and RAG pipelines.
+
+**Link:** https://www.llamaindex.ai/
+
+### Haystack
+
+An open-source framework for building search, question-answering, retrieval, and RAG applications.
+
+**Link:** https://haystack.deepset.ai/
+
+### Semantic Scholar
+
+An academic search and discovery platform used to find research papers, citations, authors, and related scholarly work.
+
+**Link:** https://www.semanticscholar.org/
+
 ## GitHub Implementations
-- ...
+## GitHub Implementations
+
+### Self-RAG
+
+An implementation of Retrieval-Augmented Generation that allows LLMs to retrieve external information and critique their own responses.
+
+**GitHub:** https://github.com/AkariAsai/self-rag
+
+### Dated Data
+
+Research implementation for studying and measuring **knowledge cutoffs** and the effective temporal boundaries of LLM knowledge.
+
+**GitHub:** https://github.com/nexync/dated_data
+
+### AutoSurvey
+
+An implementation for automatically generating **literature surveys** using LLMs, including retrieval, outlining, drafting, and evaluation.
+
+**GitHub:** https://github.com/AutoSurveys/AutoSurvey
+
+### Time-Sensitive QA
+
+A research repository containing resources for evaluating LLMs on **time-sensitive questions** and temporal reasoning.
+
+**GitHub:** https://github.com/wenhuchen/Time-Sensitive-QA
+
+### FreshBench
+
+A benchmark implementation for evaluating **information freshness and temporal generalization** in large language models.
+
+**GitHub:** https://github.com/FreedomIntelligence/FreshBench
+
 ## Tutorials
-- ...
+## Tutorials & Learning Resources
+
+### Hugging Face Transformers Documentation
+
+Official documentation for using pretrained transformer models and experimenting with NLP and LLMs.
+
+**Link:** https://huggingface.co/docs/transformers/
+
+### Hugging Face RAG Guide
+
+A practical guide to understanding and implementing Retrieval-Augmented Generation with transformer models.
+
+**Link:** https://huggingface.co/docs/transformers/model_doc/rag
+
+### LlamaIndex Documentation
+
+Tutorials and documentation for building data-connected LLM applications using indexing, retrieval, and RAG.
+
+**Link:** https://docs.llamaindex.ai/
+
+### LangChain Retrieval Guide
+
+A practical resource for understanding document retrieval and integrating retrieved information into LLM applications.
+
+**Link:** https://python.langchain.com/docs/concepts/retrieval/
+
+### Haystack Documentation
+
+Tutorials for building search, question-answering, retrieval, and RAG pipelines with open-source tools.
+
+**Link:** https://docs.haystack.deepset.ai/
+
+### ACL Anthology
+
+A scholarly resource for finding research papers, conference publications, and NLP literature relevant to LLMs and information retrieval.
+
+**Link:** https://aclanthology.org/
+
 ## Citation Integrity Audit
 [View Audit](citation-audit/Citation_Integrity_Audit.pdf)
 ## License
