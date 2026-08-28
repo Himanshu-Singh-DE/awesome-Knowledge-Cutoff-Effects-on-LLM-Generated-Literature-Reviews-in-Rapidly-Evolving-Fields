@@ -3,15 +3,15 @@ A curated collection of research papers, datasets, tools,
 implementations and learning resources related to Knowledge Cutoff Effects on LLM-Generated Literature Reviews in Rapidly Evolving Fields.
 ## Contents
 - [Overview](#Overview)
-- AI-Assisted Research Paper
-- Survey Papers
-- Foundational Papers
-- Recent Research
-- Datasets
-- Tools and Libraries
-- GitHub Implementations
-- Tutorials
-- Citation Integrity Audit
+- [AI-Assisted Research Paper](#AI-Assisted-Research-_Paper)
+- [Survey Papers](#Survey-Papers)
+- [Foundational Papers](#Foundational-Papers)
+- [Recent Research](#Recent-Research-Papers)
+- [Datasets](#Datasets)
+- [Tools and Libraries](#Tools-and-Libraries)
+- [GitHub Implementations](#GitHub-Implementations)
+- [Tutorials](#Tutorials)
+- [Citation Integrity Audit](#Citation-Integrity-Audit)
 ## Overview
 Large Language Models (LLMs) are increasingly used to search, summarize, compare, and synthesize scientific literature. However, their usefulness for literature review is limited by the temporal boundaries of their training data. A model may contain substantial scientific knowledge while still being unable to incorporate discoveries, papers, revised findings, or changes in scientific consensus that occurred after its effective knowledge boundary.
 
