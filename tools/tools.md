@@ -1,9 +1,11 @@
-# Tools for Evaluating and Monitoring LLMs
+## Useful Software/Frameworks
 
-| Name | Type | Source | Description | Application | Link |
-|---|---|---|---|---|---|
-| **OpenAI Evals** | Evaluation Framework | OpenAI | An open-source framework for evaluating LLMs and LLM-based systems. It supports existing benchmarks as well as custom evaluations and model-graded evaluations. | Run standardized evaluations repeatedly across model versions to identify changes in accuracy, reliability, and behavior. | https://github.com/openai/evals |
-| **MLflow** | Experiment Management / Evaluation | MLflow | An open-source platform for tracking experiments, metrics, models, and evaluation results. It also provides tools for evaluating and monitoring generative AI applications. | Store evaluation results across experiments and model versions, compare metrics, and identify performance regressions or drift over time. | https://mlflow.org/ |
-| **Arize Phoenix** | LLM Observability | Arize AI | An open-source observability and evaluation platform for LLM applications. It supports tracing, evaluation, hallucination detection, relevance analysis, and other LLM quality metrics. | Monitor production LLM behavior and detect changes in quality, hallucinations, relevance, latency, and other performance indicators. | https://phoenix.arize.com/ |
-| **DeepEval** | LLM Evaluation / Testing | Confident AI | An evaluation framework designed for testing LLM applications with metrics, test cases, and LLM-based evaluators. It can be integrated into development and CI/CD workflows. | Continuously test LLM applications against evaluation datasets and detect regressions after model, prompt, or system changes. | https://github.com/confident-ai/deepeval |
-| **SciPy** | Statistical Analysis | SciPy / Python | A Python scientific-computing library containing statistical tests, probability distributions, correlation analysis, confidence intervals, and other statistical methods. | Statistically analyze evaluation scores to determine whether observed performance changes represent significant model drift rather than random variation. | https://scipy.org/ |
+1. **Semantic Scholar** — Academic search and discovery tool for finding recent research papers, citation networks, and related literature.
+
+2. **OpenAlex** — Open scholarly database useful for tracking publications, authors, citations, research concepts, and recent literature through its API.
+
+3. **Elicit** — AI-powered research assistant that helps find relevant papers, extract information, and synthesize findings from academic literature.
+
+4. **Connected Papers** — Literature-mapping tool that visualizes relationships between papers and helps identify related and newer research.
+
+5. **Perplexity** — AI search engine that retrieves current web information with citations, useful for comparing real-time retrieval against LLMs with fixed knowledge cutoffs.
